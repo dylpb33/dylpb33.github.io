@@ -13,6 +13,7 @@ I received my Bachelor of Science degree in Biology from University of Wisconsin
 ## About My Advisor
 
 Mehmet Belviranli
+
 Assistant Professor, Computer Science
 
 Dr. Belviranli received his Ph.D. degree in Computer Science from University of California, Riverside in 2016. Prior to joining Mines, he continued his research and mentoring activities at Oak Ridge National Laboratory as Staff Computer Scientist.  Mehmet’s main research interests are targeted at increasing resource utilization in heterogeneous architectures. He developed runtime systems, scheduling algorithms, analytical models, extended memory spaces, programming abstractions and OS & architecture level support to make heterogeneous computing more efficient. His work has been published in major HPC and architecture related conferences including MICRO, PPoPP, SC, ICS, PACT and DATE.
