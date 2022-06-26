@@ -24,7 +24,7 @@ Personal Homepage: https://mehmet.belviranli.com/
 
 ## About My Project
 
-For my DREAM project I plan on looking into improving the computational efficiency of medical devices.
+For my DREAM project I plan on looking into improving the computational efficiency of medical devices. We plan on setting up a system that simulates an electrocardiogram (ECG) and then performing a few maniuplations of the computing system to test the systems performance with these changes. The ECG requires a long battery life in order function properly so we will look into forming a system to help with this need.
 
 [My Final Report](files/finalreport.pdf)
 
