@@ -10,6 +10,10 @@ title: DREAM Project Site
 
 I received my Bachelor of Science degree in Biology from University of Wisconsin - Madison along with a certificate in Global Health in 2020. I then started the computer science Bridge program at Colorado School of Mines in the Fall of 2021. This program helps students without a computer science background gain a Master's degree in computer science. I plan to graduate with my Master's degree in the spring of 2023.
 
+During my time as an undergrad at UW - Madison I conducted neurophysiology research on ischemia and long term potentiation. I wrote the following paper that details this area of neuroscience:
+
+[My Past Research](files/mitigating_effects_of_ltp.pdf)
+
 E-Mail: dblaine@mines.edu
 
 ## About My Advisor
